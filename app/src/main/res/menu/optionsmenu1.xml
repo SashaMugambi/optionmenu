@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/Home"
+        android:title="@string/title1"
+        android:icon="@drawable/dentist"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/gyn"
+        android:title="@string/title2"
+        android:icon="@drawable/gynacology"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/dermatology"
+        android:title="@string/title3"
+        android:icon="@drawable/dermatology"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/logout"
+        android:title="@string/title4"
+        android:icon="@drawable/orthopedic"
+        app:showAsAction="never"/>
+</menu>

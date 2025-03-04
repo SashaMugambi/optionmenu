@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">optionmenu</string>
+    <string name="title1">Home</string>
+    <string name="title2">Gynecology</string>
+    <string name="title3">Dermatology</string>
+    <string name="title4">Log out</string>
+</resources>
